@@ -1,0 +1,14 @@
+" rm -r 'File name' " is to delete a directory
+" touch " is to create a File
+" mkdir " is to create a directory
+" cd " is to change directory
+" cd ~/ " go to home directory
+
+<!-- GIT * GITHUB -->
+
+1. " Git status " <!-- Should see file you made ' Untracked '>
+2. " git add 'file_name' " <!-- or do period for multiple files>
+3. " Git status " <!-- You should now see the file ' tracked '>
+4. " git commit -m "Add hello_world.txt" "
+5. <!-- if you are editing files --> ' git commit -m "Edit README.md and hello_world.txt" '
+6. ' git push origin main '
